@@ -1,5 +1,6 @@
 # Cashback-bin
 //The project is about reduce non-bio-degradable waste. So this project gives cash back on returning waste bottles.
+
 //this code is for servo motor working
 
 #include <Servo.h>
